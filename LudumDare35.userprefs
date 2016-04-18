@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Fade.cs">
+    <Files>
+      <File FileName="Assets\Scripts\IndAnim.cs" Line="32" Column="1" />
+      <File FileName="Assets\Scripts\CameraCon.cs" Line="16" Column="31" />
+      <File FileName="Assets\Scripts\PlayerCOn.cs" Line="112" Column="82" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="62" Column="44" />
+      <File FileName="Assets\Scripts\Suck.cs" Line="65" Column="12" />
+      <File FileName="Assets\Scripts\RayThing.cs" Line="15" Column="20" />
+      <File FileName="Assets\Scripts\Door.cs" Line="16" Column="113" />
+      <File FileName="Assets\Scripts\Exit.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\Fade.cs" Line="16" Column="69" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
